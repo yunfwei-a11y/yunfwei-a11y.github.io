@@ -5,7 +5,7 @@ title: Yunfeng (Barry) Wei
 
 [Home](/) &nbsp;&nbsp; [Research](/research/) &nbsp;&nbsp; [CV](/cv/) &nbsp;&nbsp; [Contact](/contact/)
 
-<img src="/images/barry_wei.png" alt="Yunfeng (Barry) Wei" width="250">
+<img src="images/barry_wei.png" alt="Yunfeng (Barry) Wei" width="250">
 
 # Yunfeng (Barry) Wei
 
