@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Yunfeng (Barry) Wei
-[Home](/) &nbsp;&nbsp; [Research](/research/) &nbsp;&nbsp; [CV](/cv/) &nbsp;&nbsp; [Contact](/contact/)
 ---
+
+[Home](/) &nbsp;&nbsp; [Research](/research/) &nbsp;&nbsp; [CV](/cv/) &nbsp;&nbsp; [Contact](/contact/)
 
 # Yunfeng (Barry) Wei
 
