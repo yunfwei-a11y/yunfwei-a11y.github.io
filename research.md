@@ -12,6 +12,8 @@ My research focuses on memory, learning, and metacognition, with a particular in
 
 ### 2026
 
+**Wei, Y.**, Soderstrom, N. C., & Meade, M. L. (2026). Making Judgments of Learning (JOLs) for Others Produces Positive Reactivity. Behavioral Sciences, 16(9), 1542. https://doi.org/10.3390/bs16091542
+
 **Wei, Y.**, Soderstrom, N. C., & Meade, M. L. (2026). Making judgments of learning (JOLs) for oneself versus others: A review and proposed model. *Psychonomic Bulletin & Review, 33*(1), 14. 
 https://doi.org/10.3758/s13423-025-02816-0
 
